@@ -1,0 +1,147 @@
+[
+    {
+        "createdAt": 1653448563004,
+        "updatedAt": 1653448563004,
+        "id": 1,
+        "name": "Giày thể thao nam trắng Minh Hà - 370, giày sneaker thể thao nam- giày nam đẹp 2022- giày nam thể thao trắng cao cấp",
+        "color": "đen",
+        "size": "xxl",
+        "image": [
+            "https://lzd-img-global.slatic.net/g/p/fb219bb93f53460daa1483b3e9427b9b.jpg_720x720q80.jpg_.webp",
+           "https://lzd-img-global.slatic.net/g/p/1fe0f15dabb63ac4093d686dff08070f.jpg_720x720q80.jpg_.webp",
+           "https://lzd-img-global.slatic.net/g/p/1b57f7d6c5bb30c1fc81db458d3e85e7.jpg_80x80q80.jpg_.webp",
+           "https://lzd-img-global.slatic.net/g/p/1fe0f15dabb63ac4093d686dff08070f.jpg_720x720q80.jpg_.webp"
+        
+        ],
+        "avatar": "https://lzd-img-global.slatic.net/g/p/fb219bb93f53460daa1483b3e9427b9b.jpg_720x720q80.jpg_.webp",
+        "quantity": 50,
+        "price": 210000,
+        "description": "Giày thể thao nam trắng Minh Hà - 370, giày sneaker thể thao nam- giày nam đẹp 2022- giày nam thể thao trắng cao cấp"
+    },
+    {
+        "createdAt": 1653449077452,
+        "updatedAt": 1653449077452,
+        "id": 2,
+        "name": "Giày nam thể thao - giày sneaker nam - giày nam đẹp , giá rẻ, mẫu mới Minh Hà Shoes SP - 315\r\n",
+        "color": "đen",
+        "size": "xl",
+        "image": [
+           "https://lzd-img-global.slatic.net/g/p/8aae0fdbb00c5ac0060fa84cce8c6eb9.jpg_120x120q80.jpg_.webp",
+           "https://lzd-img-global.slatic.net/g/p/e42657cffd843dff5fb2a27b1e161a3b.jpg_120x120q80.jpg_.webp",
+            "https://lzd-img-global.slatic.net/g/p/35162775201868bba054077f702459ad.jpg_120x120q80.jpg_.webp",
+            "https://lzd-img-global.slatic.net/g/p/afa494c2e5b88c24aa112dcb37c3ae51.jpg_120x120q80.jpg_.webp"
+        ],
+        "avatar": "https://lzd-img-global.slatic.net/g/p/8aae0fdbb00c5ac0060fa84cce8c6eb9.jpg_120x120q80.jpg_.webp",
+        "quantity": 100,
+        "price": 264000,
+        "description": "Giày nam thể thao - giày sneaker nam - giày nam đẹp , giá rẻ, mẫu mới Minh Hà Shoes SP - 315"
+    },
+    {
+        "createdAt": 1653452363112,
+        "updatedAt": 1653452363112,
+        "id": 3,
+        "name": "Giay thể thao nam - Giày nam - T36  ",
+        "color": "trang",
+        "size": "l",
+        "image": [
+            "https://lzd-img-global.slatic.net/g/p/28568c11cd0572b93091e73a962b8c26.png_720x720q80.jpg_.webp",
+            "https://lzd-img-global.slatic.net/g/p/28568c11cd0572b93091e73a962b8c26.png_120x120q80.jpg_.webp",
+            "https://lzd-img-global.slatic.net/g/p/1058fcd504c5514ae8c387fa6661177f.png_120x120q80.jpg_.webp",
+            "https://lzd-img-global.slatic.net/g/p/3e002d9bb7d7919c3c800983c8f21f62.jpg_120x120q80.jpg_.webp"
+        ],
+        "avatar": "https://lzd-img-global.slatic.net/g/p/3e002d9bb7d7919c3c800983c8f21f62.jpg_120x120q80.jpg_.webp",
+        "quantity": 40,
+        "price": 155000,
+        "description": "Giày có form chuẩn nên bình thường các bạn đi size nào thì cứ chọn size đấy thôi"
+    },
+    {
+        "createdAt": 1653463588772,
+        "updatedAt": 1653463588772,
+        "id": 5,
+        "name": "Giày Sneaker Da Nam DINCOX C13 Cách Điệu Sáng Tạo Grey/White",
+        "color": "xam",
+        "size": "m",
+        "image": [
+           "https://lzd-img-global.slatic.net/g/p/05ab4991b1454dc4e7da269cb81ecda4.jpg_720x720q80.jpg_.webp",
+           "https://lzd-img-global.slatic.net/g/p/951e4270af90b89c20060c2bd2a77a74.jpg_120x120q80.jpg_.webp",
+           "https://lzd-img-global.slatic.net/g/p/2b7773849a0fec50bdb3c86fd3ad5b98.jpg_120x120q80.jpg_.webp",
+           "https://lzd-img-global.slatic.net/g/p/02ca8c880cfd71e443f26ef396f5ad65.jpg_120x120q80.jpg_.webp"
+        ],
+        "avatar": "https://lzd-img-global.slatic.net/g/p/05ab4991b1454dc4e7da269cb81ecda4.jpg_720x720q80.jpg_.webp",
+        "quantity": 100,
+        "price": 37000,
+        "description": "Chất liệu : Da Tổng hợp (loại da bò kết hợp da nhân tạo độ bền và tốt như da thật ,ít bị nhăn hơn khi đi …. Phù hợp thời tiết Việt Nam ) tất cả sản phẩm đều bảo hành chính hãng Dincox "
+    },
+    {
+        "createdAt": 1653463999001,
+        "updatedAt": 1653463999001,
+        "id": 6,
+        "name": "Giày Sneaker Da Nam DINCOX C11 Trẻ Trung, Năng Động Blackshiny",
+        "color": "đen",
+        "size": "xl",
+        "image": [
+            "https://lzd-img-global.slatic.net/g/p/4fdc4f089b70371c1938293039ed4df8.jpg_720x720q80.jpg_.webp",
+            "https://lzd-img-global.slatic.net/g/p/613dd8531e20b83eee6184ed59b0c6e6.jpg_120x120q80.jpg_.webp",
+            "https://lzd-img-global.slatic.net/g/p/ba6a194e15b6444bea3788d699e5b35c.jpg_120x120q80.jpg_.webp",
+            "https://lzd-img-global.slatic.net/g/p/95d083ef150874c017496aaeee67a90d.jpg_120x120q80.jpg_.webp"
+        ],
+        "avatar": "https://lzd-img-global.slatic.net/g/p/4fdc4f089b70371c1938293039ed4df8.jpg_720x720q80.jpg_.webp",
+        "quantity": 100,
+        "price": 106000,
+        "description": "Bán đúng chất lượng về sản phẩm như mô tả. Chuyển đúng hàng , đúng mẫu mã và size giày. Màu sắc đúng với đơn đặt hàng"
+    },
+    {
+        "createdAt": 1653465276861,
+        "updatedAt": 1653465276861,
+        "id": 7,
+        "name": "Giày Sneaker Da Unisex DINCOX D20 Màu Đen Năng Động Cá Tính",
+        "color": "đen",
+        "size": "l",
+        "image": [
+            "https://lzd-img-global.slatic.net/g/p/09d22184fbed48d2de9a991dcdc4ef97.jpg_720x720q80.jpg_.webp",
+            "https://lzd-img-global.slatic.net/g/p/0968eda00c2f508b2de622f6a7582857.jpg_120x120q80.jpg_.webp",
+            "https://lzd-img-global.slatic.net/g/p/4faf0b467b5120159b0a6ee7a49ef774.jpg_120x120q80.jpg_.webp",
+            "https://lzd-img-global.slatic.net/g/p/633ee2878465e0ae1af7da0314fd4566.jpg_120x120q80.jpg_.webp"
+        ],
+        "avatar": "https://lzd-img-global.slatic.net/g/p/09d22184fbed48d2de9a991dcdc4ef97.jpg_720x720q80.jpg_.webp",
+        "quantity": 100,
+        "price": 38000,
+        "description": "Thông Tin Sản Phẩm : Giày Sneaker Da Unisex DINCOX D20 Màu Đen Năng Động Cá Tính"
+    },
+    {
+        "createdAt": 1653465682017,
+        "updatedAt": 1653465682017,
+        "id": 8,
+        "name": "Giày thể thao nam sneaker, đế tổng hơp độ bền cao, kiểu dáng cá tính cực ngầu PETTINO - NS08",
+        "color": "đen",
+        "size": "xl",
+        "image": [
+            "https://lzd-img-global.slatic.net/g/p/295f9ac101b97e1569c1716e1fd04102.jpg_720x720q80.jpg_.webp",
+            "https://lzd-img-global.slatic.net/g/p/5c25347802c2ad910f341969dbb60cd6.jpg_120x120q80.jpg_.webp",
+            "https://lzd-img-global.slatic.net/g/p/469f8d5e119685ed28013658067a1bc9.jpg_120x120q80.jpg_.webp",
+            "https://lzd-img-global.slatic.net/g/p/5c25347802c2ad910f341969dbb60cd6.jpg_120x120q80.jpg_.webp"
+        ],
+        "avatar": "https://lzd-img-global.slatic.net/g/p/295f9ac101b97e1569c1716e1fd04102.jpg_720x720q80.jpg_.webp",
+        "quantity": 100,
+        "price": 78000,
+        "description": "THÔNG TIN SẢN PHẨM Bộ Quần Áo Hoodie Nỉ Thu Đông Mẫu Mới Hot Trend Dài Tay Mũ Trùm Đầu Họa Tiết Z Phối Quần Dài Cạp Chun Phong Cách Trẻ Trung Cá Tính HNDC Zenko MEN QA 018 Chất liệu mềm mại, thoáng mát, co giãn tạo cảm giác thoải mái khi mặc Kiểu dáng đơn"
+    },
+    {
+        "createdAt": 1653531349916,
+        "updatedAt": 1653531349916,
+        "id": 9,
+        "name": "GIÀY VẢI LANH SNEAKER NAM BN0106",
+        "color": "Xanh navy",
+        "size": "xs",
+        "image": [
+            "https://agiay.vn/wp-content/uploads/2021/06/TEST27-11-1.jpg",
+            "https://agiay.vn/wp-content/uploads/2021/06/TEST27-11-1-100x100.jpg",
+            "https://agiay.vn/wp-content/uploads/2021/06/TEST27-8a-100x100.jpg",
+            "https://agiay.vn/wp-content/uploads/2021/06/AA-100x100.jpg"
+        ],
+        "avatar": "https://agiay.vn/wp-content/uploads/2021/06/TEST27-11-1.jpg",
+        "quantity": 200,
+        "price": 38000,
+        "description": "THÔNG TIN SẢN PHẨM  mềm mại, thoáng mát, co giãn tạo cảm giác thoải mái khi mặc Kiểu dáng đơn giản nhưng không kém phần thời trang, trẻ trung, năng động Đường may cẩn thận, tỉ mỉ, chắc chắn Thích hợp "
+    }
+]
